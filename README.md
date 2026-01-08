@@ -10,8 +10,7 @@ Hello! I'm Yves-Claude Zamor, a cybersecurity professional passionate about prot
 
 **𝑺𝒖𝒎𝒎𝒂𝒓𝒚:**
 
-- Associate of Science in Cybersecurity and Networking (GPA 3.89) from DeVry University, graduating June 2025
-- Skilled in cybersecurity practices, network security, and risk management with focus on ethical hacking and threat mitigation
+- Pursuing Bachelor of Science in Cybersecurity (GPA 3.89) from DeVry University, graduating March 2026- Skilled in cybersecurity practices, network security, and risk management with focus on ethical hacking and threat mitigation
 - Experience in infrastructure security, cloud computing, and security operations
 - Currently working at USPS while pursuing entry-level cybersecurity analyst roles
 - Strong background in process optimization, technical project management, and Agile methodologies
@@ -123,10 +122,8 @@ Explore my detailed project repositories:
 
 ## Education
 
-**Associate of Science in Cybersecurity and Networking**  
-DeVry University | June 2025 | GPA: 3.89
-
-**Relevant Coursework:**
+**Bachelor of Science in Cybersecurity**DeVry University | June 2025 | GPA: 3.89
+DeVry University | March 2026 (Expected) | GPA: 3.89**Relevant Coursework:**
 - Information System Security
 - Infrastructure Security
 - Cybersecurity and Data Privacy

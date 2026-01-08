@@ -30,7 +30,7 @@ Hello! I'm Yves-Claude Zamor, a cybersecurity professional passionate about prot
 
 - **Security Tools:** Wireshark, Nmap, Nessus, Snort, Netcat, Kali Linux, VirtualBox
 - **Programming:** Python, Bash scripting, automation development
-- **Networking:** TCP/IP, routing, subnetting, wireless security, firewall management
+- **Networking:** TCP/IP, routing, subnetting, wireless security, firewall management, DNS
 - **Security Practices:** Vulnerability assessment, penetration testing, intrusion detection, encryption, MFA
 - **Frameworks:** NIST Cybersecurity Framework, OWASP Top 10
 - **Operating Systems:** Linux (Ubuntu, Kali), Windows administration

@@ -71,8 +71,8 @@ Professional cybersecurity certifications and training.
 #### Overall Statistics
 - **Total Points Earned:** 144
 - **Total Rooms Completed:** 4
-- **Active Learning Paths:** SOC Level 1, Pre Security
-- **Current Streak:** 2 days
+- **Active Learning Paths:** Jr Penetration Tester
+- **Current Streak:** 3 days
 - **Profile:** [TryHackMe Profile](https://tryhackme.com/p/yveszamor21)
 
 #### Skills Demonstrated
